@@ -1,2 +1,4 @@
-./datasets/dot_traffic_2015.pkl
-./datasets/dot_traffic_stations_2015.pkl
+datasets/*.txt
+datasets/*.pkl
+.DS_Store
+datasets/.DS_Store
