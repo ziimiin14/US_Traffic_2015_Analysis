@@ -30,7 +30,7 @@ $ git clone https://github.com/ziimiin14/US_Traffic_2015_Analysis.git
 $ pip install -r requirements.txt
 ```
 
-
+**Lastly, run the notebook scipts on IDE which supports notebook environment.**
 ## Dependencies
 ```bash
 pandas==1.0.3
