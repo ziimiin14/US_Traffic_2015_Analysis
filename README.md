@@ -18,21 +18,17 @@
 ### MacOS:
 ```bash
 $ brew update
-$ brew install git-lfs
+$ brew install git # Optional if you already have git installed
 $ git clone https://github.com/ziimiin14/US_Traffic_2015_Analysis.git
 $ cd US_Traffic_2015_Analysis
-$ git lfs install
-$ git lfs pull
 $ pip install -r requirements.txt
 ```
 ### Debian/Ubuntu:
 ```bash
 $ sudo apt-get update
-$ sudo apt-get install git-lfs
+$ sudo apt-get install git # Optional if you already have git installed 
 $ git clone https://github.com/ziimiin14/US_Traffic_2015_Analysis.git
 $ cd US_Traffic_2015_Analysis
-$ git lfs install
-$ git lfs pull
 $ pip install -r requirements.txt
 ```
 

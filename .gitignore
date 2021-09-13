@@ -1,4 +1,4 @@
-datasets/*.txt
+datasets/*.gz
 datasets/*.pkl
+datasets/*.csv
 .DS_Store
-datasets/.DS_Store
