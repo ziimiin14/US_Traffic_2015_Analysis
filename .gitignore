@@ -1,4 +1,1 @@
-datasets/*.gz
-datasets/*.pkl
-datasets/*.csv
 .DS_Store
