@@ -19,14 +19,16 @@
 ```bash
 $ brew update
 $ brew install git-lfs
-$ git clone https://github.com/ziimiin14/US_Traffic_2015_Analysis.git
+$ git lfs clone https://github.com/ziimiin14/US_Traffic_2015_Analysis.git
+$ cd US_Traffic_2015_Analysis
 $ pip install -r requirements.txt
 ```
 ### Debian/Ubuntu:
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install git-lfs
-$ git clone https://github.com/ziimiin14/US_Traffic_2015_Analysis.git
+$ git lfs clone https://github.com/ziimiin14/US_Traffic_2015_Analysis.git
+$ cd US_Traffic_2015_Analysis
 $ pip install -r requirements.txt
 ```
 
