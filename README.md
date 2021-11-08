@@ -34,7 +34,7 @@ $ cd US_Traffic_2015_Analysis
 $ pip install -r requirements.txt
 ```
 
-**Lastly, run the notebook scipts on IDE which supports notebook environment.**
+**Lastly, run the notebook script on IDE which supports notebook environment.**
 ## Dependencies
 ```bash
 pandas==1.0.3
